@@ -59,7 +59,7 @@ opencv-python
 ## 作者&联系方式（Author & Contact）
 
 ##### ***Allen Lee***
-+ dutlzl@mail.dlut.edu.cn  
++ 220245562@seu.edu.cn 
 ##### ***John Yu*** 
 + 220245645@seu.edu.cn
 ##### ***Rocket L*** 
