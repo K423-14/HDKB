@@ -61,7 +61,7 @@ opencv-python
 ##### ***Allen Lee***
 + dutlzl@mail.dlut.edu.cn  
 ##### ***John Yu*** 
-+ 209359649@mail.dlut.edu.cn
++ 220245645@seu.edu.cn
 ##### ***Rocket L*** 
 + 2858865887@qq.con
 
